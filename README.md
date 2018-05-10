@@ -5,7 +5,7 @@ Sim1-1-BayesPLSrun.R           --->   Creates the BayesPLS objects
 
 Sim1-2a-EstimatesFunctions.R   --->   Creates the sigma2-estimates
 
-Sim1-2-Estimates.R             --->   Organizes the sigma2-estimates
+Sim1-2b-Estimates.R             --->   Organizes the sigma2-estimates
 
 Sim1-3-RemoveBigNegDoF.R       --->   Removing erroneous estimates
 
@@ -13,7 +13,7 @@ Sim1-4-EstimatesSummary.R      --->   Statistical summaries of the estimates
 
 Sim1-5a-PlotsFunction.R        --->   Plots the statistical summaries
 
-Sim1-5-Plots.R                 --->   Organizes the plots
+Sim1-5b-Plots.R                 --->   Organizes the plots
 
 Sim1-6-ANOVA.R                 --->   Analysis of varianca
 
